@@ -103,23 +103,22 @@ function searchBand(string) {
       readUserInput();
     })
   };
-  
+  //Function to search song on Spotify API
   function searchSong(param) {
     spotify.search({ type: 'track', query: param }, function(err, data) {
       if (err) {
         console.log('Error occurred: ' + err);
         return;
     }
-    
+    //loop through the array of songs
     console.log("");
     var songs = data.tracks.items;
     for (var i=0; i<songs.length;i++){
       console.log("***********************************************************************************************************************************")
-      console.log("Song's name: " + songs[i].name);
+      console.log("Song's Name: " + songs[i].name);
       console.log("Artist: " + songs[i].artists.map(getArtistsNames));
-      console.log("Preview link: " + songs[i].preview_url);
+      console.log("Preview Link: " + songs[i].preview_url);
       console.log("Album: " + songs[i].album.name);
-      
     } 
   
   });
