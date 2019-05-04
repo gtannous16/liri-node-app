@@ -20,34 +20,33 @@ var nameToSearch = "";
 for (var i = 3; i < userChoice.length; i++) {
 
     if (i > 3 && i < userChoice.length) {
-      nameToSearch = nameToSearch + "+" + userChoice[i];
+        nameToSearch = nameToSearch + "+" + userChoice[i];
+    } else {
+        nameToSearch += userChoice[i];
     }
-    else {
-      nameToSearch += userChoice[i];
-    }
-  }
-  
-  if (userInput === "do-what-it-says") {
+}
+
+if (userInput === "do-what-it-says") {
     readTextFile();
-  } else {
+} else {
     readUserInput();
-  }
+}
 
 function readUserInput() {
     if (userInput === "concert-this") {
-      //Call the function to search concerts for a band with Bands In Town API
-      if (!nameToSearch) {
-        searchBand("Randy Rogers Band"); 
-      } else {
-        searchBand(nameToSearch)
-      }
+        //Call the function to search concerts for a band with Bands In Town API
+        if (!nameToSearch) {
+            searchBand("Randy Rogers Band");
+        } else {
+            searchBand(nameToSearch)
+        }
     } else if (userInput === "movie-this") {
         //Call the function to search movie info with OMDB API
         //If no movie entered, search Mr.Nobody
         if (!nameToSearch) {
-          searchMovie("The Devil wears Prada")
+            searchMovie("The Devil wears Prada")
         } else {
-          searchMovie(nameToSearch);
+            searchMovie(nameToSearch);
         }
     } else if (userInput === "spotify-this-song") {
         //Call the function to search songs with Spotify
@@ -56,101 +55,105 @@ function readUserInput() {
             searchSong("In the Name of Love");
         } else {
             searchSong(nameToSearch);
-        }   
+        }
     }
 }
 //Function to search bands concert with Bands In Town API
 function searchBand(string) {
     axios.get(`https://rest.bandsintown.com/artists/${string}/events?app_id=codingbootcamp`).then(
-      function(response) {
-        var divider = "\n**********************************************************************************************************************\n"
-        var concertData = response.data;
-        for(let i = 0; i < 5; i++){
-        
-        var showConcertData = [
-          "Name of Artist: " + concertData[i].lineup,
-          "Name of the venue: " + concertData[i].venue.name,
-          "Venue location: " + concertData[i].venue.city + ", " + concertData[i].venue.region,
-          "Date of the Event: " + moment(concertData[i].datetime).format("MM/DD/YYYY")
-        ].join("\n");
-         console.log(divider + showConcertData + divider);
-         fs.appendFile("log.txt",divider + showConcertData + divider, function(err) {
-        if (err) throw err;
-      }
-       
-      )}
-    
-      });
+        function(response) {
+            var divider = "\n**********************************************************************************************************************\n"
+            var concertData = response.data;
+            for (let i = 0; i < 5; i++) {
 
-    };
-  //Function to search data from the random.txt file (Still not working)
-  function readTextFile () {
-    fs.readFile("random.txt", "utf8", function(error, data) {
-      if (error) {
-        return console.log(error);
-      }
-      var dataArr = data.split(",");
-      console.log(dataArr);
-  
-      userInput = dataArr[0];
-      nameToSearch = dataArr[1];
-      readUserInput();
-    })
-  };
-  //Function to search movie with OMDB  API
-  function searchMovie(string) {
-    axios.get(`http://www.omdbapi.com/?t=${string}&y=&plot=short&apikey=trilogy`).then(
-      function(response) {
-        var divider = "\n\n**********************************************************************************************************************\n\n"
-        var movieData = response.data;
-        var showMovieData = [
-          "Title of the Movie: " + movieData.Title,
-          "Year the Movie Came Out: " + movieData.Year,
-          "IMDB Rating of the Movie: " + movieData.Ratings[0].Value,
-          "Rotten Tomatoes Rating of the Movie: " + movieData.Ratings[1].Value,
-          "Country where the Movie was Produced: " + movieData.Country,
-          "Language of the Movie: " + movieData.Language,
-          "Plot of the Movie: " + movieData.Plot,
-          "Actors in the Movie: " + movieData.Actors,
-        ].join("\n\n")
-        fs.appendFile("log.txt",divider + showMovieData + divider, function(err) {
-          if (err) throw err;
-          console.log(divider + showMovieData + divider);
+                var showConcertData = [
+                    "Name of Artist: " + concertData[i].lineup,
+                    "Name of the venue: " + concertData[i].venue.name,
+                    "Venue location: " + concertData[i].venue.city + ", " + concertData[i].venue.region,
+                    "Date of the Event: " + moment(concertData[i].datetime).format("MM/DD/YYYY")
+                ].join("\n");
+                console.log(divider + showConcertData + divider);
+                fs.appendFile("log.txt", divider + showConcertData + divider, function(err) {
+                        if (err) throw err;
+                    }
+
+                )
+            }
+
         });
-      }
+
+};
+//Function to search data from the random.txt file (Still not working)
+function readTextFile() {
+    fs.readFile("random.txt", "utf8", function(error, data) {
+        if (error) {
+            return console.log(error);
+        }
+        var dataArr = data.split(",");
+        console.log(dataArr);
+
+        userInput = dataArr[0];
+        nameToSearch = dataArr[1];
+        readUserInput();
+    })
+};
+//Function to search movie with OMDB  API
+function searchMovie(string) {
+    axios.get(`http://www.omdbapi.com/?t=${string}&y=&plot=short&apikey=trilogy`).then(
+        function(response) {
+            var divider = "\n\n**********************************************************************************************************************\n\n"
+            var movieData = response.data;
+            var showMovieData = [
+                "Title of the Movie: " + movieData.Title,
+                "Year the Movie Came Out: " + movieData.Year,
+                "IMDB Rating of the Movie: " + movieData.Ratings[0].Value,
+                "Rotten Tomatoes Rating of the Movie: " + movieData.Ratings[1].Value,
+                "Country where the Movie was Produced: " + movieData.Country,
+                "Language of the Movie: " + movieData.Language,
+                "Plot of the Movie: " + movieData.Plot,
+                "Actors in the Movie: " + movieData.Actors,
+            ].join("\n\n")
+            fs.appendFile("log.txt", divider + showMovieData + divider, function(err) {
+                if (err) throw err;
+                console.log(divider + showMovieData + divider);
+            });
+        }
     )
-  };
-  
-  //Function to search song on Spotify API
-  function searchSong(param) {
+};
+
+//Function to search song on Spotify API
+function searchSong(param) {
     var divider = "***********************************************************************************************************************************"
-    spotify.search({ type: 'track', query: param }, function(err, data) {
-      if (err) {
-        console.log('Error occurred: ' + err);
-        return;
-    }
-    //loop through the array of songs
-    console.log("");
+    spotify.search({
+        type: 'track',
+        query: param
+    }, function(err, data) {
+        if (err) {
+            console.log('Error occurred: ' + err);
+            return;
+        }
+        //loop through the array of songs
+        console.log("");
 
-    var songs = data.tracks.items;
-   
-    for (var i=0; i < 5; i++){
-      var showMusicData = [
-      "\nSong's Name: " + songs[i].name,
-      "\nArtist: " + songs[i].artists.map(getArtistsNames),
-      "\nPreview Link: " + songs[i].preview_url,
-      "\nAlbum: " + songs[i].album.name
-      ]
+        var songs = data.tracks.items;
 
-      console.log( divider + "\n" + showMusicData + "\n")
-     fs.appendFile("log.txt", divider + showMusicData + "\n", function(err) {
-      if (err) throw err;
+        for (var i = 0; i < 5; i++) {
+            var showMusicData = [
+                "\nSong's Name: " + songs[i].name,
+                "\nArtist: " + songs[i].artists.map(getArtistsNames),
+                "\nPreview Link: " + songs[i].preview_url,
+                "\nAlbum: " + songs[i].album.name
+            ]
+
+            console.log(divider + "\n" + showMusicData + "\n")
+            fs.appendFile("log.txt", divider + showMusicData + "\n", function(err) {
+                if (err) throw err;
+            });
+        }
+
     });
-    }
-
-    
-  });
 }
+
 function getArtistsNames(artist) {
     return artist.name;
-  }
+}
