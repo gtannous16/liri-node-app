@@ -71,6 +71,20 @@ function searchBand(string) {
       }
     )
   };
+  //Function to search data from the random.txt file (Still not working)
+  function readTextFile () {
+    fs.readFile("random.txt", "utf8", function(error, data) {
+      if (error) {
+        return console.log(error);
+      }
+      var dataArr = data.split(",");
+      console.log(dataArr);
+  
+      userInput = dataArr[0];
+      nameToSearch = dataArr[1];
+      readUserInput();
+    })
+  };
   //Function to search movie with OMDB  API
   function searchMovie(string) {
     axios.get(`http://www.omdbapi.com/?t=${string}&y=&plot=short&apikey=trilogy`).then(
@@ -90,19 +104,7 @@ function searchBand(string) {
       }
     )
   };
-    function readTextFile () {
-    fs.readFile("random.txt", "utf8", function(error, data) {
-      if (error) {
-        return console.log(error);
-      }
-      var dataArr = data.split(",");
-      console.log(dataArr);
   
-      userInput = dataArr[0];
-      nameToSearch = dataArr[1];
-      readUserInput();
-    })
-  };
   //Function to search song on Spotify API
   function searchSong(param) {
     spotify.search({ type: 'track', query: param }, function(err, data) {
