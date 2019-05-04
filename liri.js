@@ -7,6 +7,7 @@ var axios = require("axios");
 var keys = require("./keys.js");
 //to format dates
 var moment = require("moment");
+//spotify api key
 var Spotify = require("node-spotify-api")
 spotify = new Spotify(keys.spotify);
 
@@ -44,9 +45,16 @@ function readUserInput() {
         } else {
           searchMovie(nameToSearch);
         }
+    } else if (userInput === "spotify-this-song") {
+        //Call the function to search songs with Spotify
+        //If no song entered, search the song "The Sign"
+        if (!nameToSearch) {
+            searchSong("Survivor");
+        } else {
+            searchSong(nameToSearch);
+        }   
+    }
 }
-}
-
 //Function to search bands concert with Bands In Town API
 function searchBand(string) {
     axios.get(`https://rest.bandsintown.com/artists/${string}/events?app_id=codingbootcamp`).then(
@@ -63,7 +71,7 @@ function searchBand(string) {
       }
     )
   };
-
+  //Function to search movie with OMDB  API
   function searchMovie(string) {
     axios.get(`http://www.omdbapi.com/?t=${string}&y=&plot=short&apikey=trilogy`).then(
       function(response) {
@@ -82,3 +90,41 @@ function searchBand(string) {
       }
     )
   };
+    function readTextFile () {
+    fs.readFile("random.txt", "utf8", function(error, data) {
+      if (error) {
+        return console.log(error);
+      }
+      var dataArr = data.split(",");
+      console.log(dataArr);
+  
+      userInput = dataArr[0];
+      nameToSearch = dataArr[1];
+      readUserInput();
+  
+    })
+  };
+  
+  function searchSong(param) {
+    spotify.search({ type: 'track', query: param }, function(err, data) {
+      if (err) {
+        console.log('Error occurred: ' + err);
+        return;
+    }
+    
+    console.log("");
+    var songs = data.tracks.items;
+    for (var i=0; i<songs.length;i++){
+      console.log("Song's name: " + songs[i].name);
+      console.log("Artist: " + songs[i].artists.map(getArtistsNames));
+      console.log("Preview link: " + songs[i].preview_url);
+      console.log("Album: " + songs[i].album.name);
+      console.log("");
+      console.log("***********************************************************************************************************************************")
+    } 
+  
+  });
+}
+function getArtistsNames(artist) {
+    return artist.name;
+  }
