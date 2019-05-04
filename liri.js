@@ -36,22 +36,49 @@ function readUserInput() {
     if (userInput === "concert-this") {
       //Call the function to search concerts for a band with Bands In Town API
       searchBand(nameToSearch);
-    }
+    } else if (userInput === "movie-this") {
+        //Call the function to search movie info with OMDB API
+        //If no movie entered, search Mr.Nobody
+        if (!nameToSearch) {
+          searchMovie("Mr.Nobody")
+        } else {
+          searchMovie(nameToSearch);
+        }
+}
 }
 
 //Function to search bands concert with Bands In Town API
 function searchBand(string) {
     axios.get(`https://rest.bandsintown.com/artists/${string}/events?app_id=codingbootcamp`).then(
       function(response) {
-    
-        console.log("");
+        
+        
         for (var i=0; i<5;i++){
+          console.log("**********************************************************************")
           console.log("Name of the venue: " + response.data[i].venue.name);
           console.log("Venue location: " + response.data[i].venue.city + ", " + response.data[i].venue.region);
           console.log("Date of the Event: " + moment(response.data[i].datetime).format("MM/DD/YYYY"));
-          console.log("");
         }
         
+      }
+    )
+  };
+
+  function searchMovie(string) {
+    axios.get(`http://www.omdbapi.com/?t=${string}&y=&plot=short&apikey=trilogy`).then(
+      function(response) {
+        console.log("***********************************************************************************************************************************")
+        console.log("");
+        console.log("Title of the Movie: " + response.data.Title);
+        console.log("Year the Movie Came Out: " + response.data.Year);
+        console.log("IMDB Rating of the Movie: " + response.data.Ratings[0].Value);
+        console.log("Rotten Tomatoes Rating of the Movie: " + response.data.Ratings[1].Value);
+        console.log("Country where the Movie was Produced: " + response.data.Country);
+        console.log("Language of the Movie: " + response.data.Language);
+        console.log("Plot of the Movie: " + response.data.Plot);
+        console.log("Actors in the Movie: " + response.data.Actors);
+        console.log("");
+        console.log("***********************************************************************************************************************************")
       }
     )
   };
