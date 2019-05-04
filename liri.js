@@ -49,7 +49,7 @@ function readUserInput() {
         //Call the function to search songs with Spotify
         //If no song entered, search the song "The Sign"
         if (!nameToSearch) {
-            searchSong("Survivor");
+            searchSong("In the Name of Love");
         } else {
             searchSong(nameToSearch);
         }   
@@ -101,7 +101,6 @@ function searchBand(string) {
       userInput = dataArr[0];
       nameToSearch = dataArr[1];
       readUserInput();
-  
     })
   };
   
@@ -115,12 +114,12 @@ function searchBand(string) {
     console.log("");
     var songs = data.tracks.items;
     for (var i=0; i<songs.length;i++){
+      console.log("***********************************************************************************************************************************")
       console.log("Song's name: " + songs[i].name);
       console.log("Artist: " + songs[i].artists.map(getArtistsNames));
       console.log("Preview link: " + songs[i].preview_url);
       console.log("Album: " + songs[i].album.name);
-      console.log("");
-      console.log("***********************************************************************************************************************************")
+      
     } 
   
   });
