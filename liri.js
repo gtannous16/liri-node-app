@@ -36,12 +36,16 @@ for (var i = 3; i < userChoice.length; i++) {
 function readUserInput() {
     if (userInput === "concert-this") {
       //Call the function to search concerts for a band with Bands In Town API
-      searchBand(nameToSearch);
+      if (!nameToSearch) {
+        searchBand("Randy Rogers Band"); 
+      } else {
+        searchBand(nameToSearch)
+      }
     } else if (userInput === "movie-this") {
         //Call the function to search movie info with OMDB API
         //If no movie entered, search Mr.Nobody
         if (!nameToSearch) {
-          searchMovie("Mr.Nobody")
+          searchMovie("The Devil wears Prada")
         } else {
           searchMovie(nameToSearch);
         }
@@ -62,8 +66,9 @@ function searchBand(string) {
         var divider = "\n**********************************************************************************************************************\n"
         var concertData = response.data;
         for(let i = 0; i < 5; i++){
-
+        
         var showConcertData = [
+          "Name of Artist: " + concertData[i].lineup,
           "Name of the venue: " + concertData[i].venue.name,
           "Venue location: " + concertData[i].venue.city + ", " + concertData[i].venue.region,
           "Date of the Event: " + moment(concertData[i].datetime).format("MM/DD/YYYY")
