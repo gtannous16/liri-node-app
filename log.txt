@@ -4,6 +4,11 @@ Artist: Martin Garrix,Bebe Rexha,
 Preview Link: https://p.scdn.co/mp3-preview/cbd166d86a2d5a52930dd5fe509c1f2806aeab11?cid=a24dadfadd72423da8649ac4709964d1,
 Album: In the Name of Love
 ***********************************************************************************************************************************
+Song's Name: In The Name Of Love,
+Artist: Too Close To Touch,
+Preview Link: null,
+Album: Punk Goes Pop, Vol. 7
+***********************************************************************************************************************************
 Song's Name: Stop! In The Name Of Love - Single Version,
 Artist: The Supremes,
 Preview Link: null,
@@ -18,11 +23,6 @@ Song's Name: Pride (In The Name Of Love) - Remastered 2009,
 Artist: U2,
 Preview Link: null,
 Album: The Unforgettable Fire (Remastered)
-***********************************************************************************************************************************
-Song's Name: In The Name Of Love,
-Artist: Too Close To Touch,
-Preview Link: null,
-Album: Punk Goes Pop, Vol. 7
 ***********************************************************************************************************************************
 Song's Name: If I Can't Have You,
 Artist: Shawn Mendes,
@@ -48,6 +48,76 @@ Song's Name: If I Can't Have You,
 Artist: Yvonne Elliman,
 Preview Link: null,
 Album: The Best Of Yvonne Elliman
+
+**********************************************************************************************************************
+Name of Artist: Randy Rogers Band
+Name of the venue: The Railyard
+Venue location: Lincoln, NE
+Date of the Event: 05/10/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Randy Rogers Band
+Name of the venue: IP Casino - Studio A
+Venue location: Biloxi, MS
+Date of the Event: 05/24/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Randy Rogers Band
+Name of the venue: Randy & Brady Acoustic - Waylon's & Ray's
+Venue location: Brownwood, TX
+Date of the Event: 05/17/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Randy Rogers Band
+Name of the venue: Randy and Brady Acoustic - Wild West Cedar Park
+Venue location: Cedar Park, TX
+Date of the Event: 05/18/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Randy Rogers Band
+Name of the venue: First Avenue Club
+Venue location: Iowa City, IA
+Date of the Event: 05/11/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Maroon 5
+Name of the venue: Mollenpark
+Venue location: Aalborg, 
+Date of the Event: 06/01/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Maroon 5
+Name of the venue: O2 ARENA
+Venue location: Prague, 
+Date of the Event: 06/05/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Maroon 5
+Name of the venue: Tauron Arena
+Venue location: Kraków, 
+Date of the Event: 06/06/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Maroon 5
+Name of the venue: Lanxess Arena
+Venue location: Cologne, 
+Date of the Event: 06/03/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Maroon 5
+Name of the venue: Wembley Stadium
+Venue location: Wembley, 
+Date of the Event: 06/08/2019
+**********************************************************************************************************************
 
 
 **********************************************************************************************************************
@@ -92,583 +162,3 @@ Actors in the Movie: Reese Witherspoon, Josh Lucas, Patrick Dempsey, Candice Ber
 
 **********************************************************************************************************************
 
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: The Railyard
-Venue location: Lincoln, NE
-Date of the Event: 05/10/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: IP Casino - Studio A
-Venue location: Biloxi, MS
-Date of the Event: 05/24/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: First Avenue Club
-Venue location: Iowa City, IA
-Date of the Event: 05/11/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: Randy and Brady Acoustic - Wild West Cedar Park
-Venue location: Cedar Park, TX
-Date of the Event: 05/18/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: Randy & Brady Acoustic - Waylon's & Ray's
-Venue location: Brownwood, TX
-Date of the Event: 05/17/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: Mollenpark
-Venue location: Aalborg, 
-Date of the Event: 06/01/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: Tauron Arena
-Venue location: Kraków, 
-Date of the Event: 06/06/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: O2 ARENA
-Venue location: Prague, 
-Date of the Event: 06/05/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: Wembley Stadium
-Venue location: Wembley, 
-Date of the Event: 06/08/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: Lanxess Arena
-Venue location: Cologne, 
-Date of the Event: 06/03/2019
-**********************************************************************************************************************
-***********************************************************************************************************************************
-Song's Name: In the Name of Love,
-Artist: Martin Garrix,Bebe Rexha,
-Preview Link: https://p.scdn.co/mp3-preview/cbd166d86a2d5a52930dd5fe509c1f2806aeab11?cid=a24dadfadd72423da8649ac4709964d1,
-Album: In the Name of Love
-***********************************************************************************************************************************
-Song's Name: In The Name Of Love,
-Artist: Too Close To Touch,
-Preview Link: null,
-Album: Punk Goes Pop, Vol. 7
-***********************************************************************************************************************************
-Song's Name: In The Name Of Love - Recorded At Spotify Studios NYC,
-Artist: Kari Jobe,
-Preview Link: null,
-Album: Spotify Singles
-***********************************************************************************************************************************
-Song's Name: Pride (In The Name Of Love) - Remastered 2009,
-Artist: U2,
-Preview Link: null,
-Album: The Unforgettable Fire (Remastered)
-***********************************************************************************************************************************
-Song's Name: Stop! In The Name Of Love - Single Version,
-Artist: The Supremes,
-Preview Link: null,
-Album: More Hits By The Supremes
-***********************************************************************************************************************************
-Song's Name: In the Name of Love,
-Artist: Martin Garrix,Bebe Rexha,
-Preview Link: https://p.scdn.co/mp3-preview/cbd166d86a2d5a52930dd5fe509c1f2806aeab11?cid=a24dadfadd72423da8649ac4709964d1,
-Album: In the Name of Love
-***********************************************************************************************************************************
-Song's Name: Stop! In The Name Of Love - Single Version,
-Artist: The Supremes,
-Preview Link: null,
-Album: More Hits By The Supremes
-***********************************************************************************************************************************
-Song's Name: In The Name Of Love - Recorded At Spotify Studios NYC,
-Artist: Kari Jobe,
-Preview Link: null,
-Album: Spotify Singles
-***********************************************************************************************************************************
-Song's Name: Pride (In The Name Of Love) - Remastered 2009,
-Artist: U2,
-Preview Link: null,
-Album: The Unforgettable Fire (Remastered)
-***********************************************************************************************************************************
-Song's Name: In The Name Of Love,
-Artist: Too Close To Touch,
-Preview Link: null,
-Album: Punk Goes Pop, Vol. 7
-***********************************************************************************************************************************
-Song's Name: In the Name of Love,
-Artist: Martin Garrix,Bebe Rexha,
-Preview Link: https://p.scdn.co/mp3-preview/cbd166d86a2d5a52930dd5fe509c1f2806aeab11?cid=a24dadfadd72423da8649ac4709964d1,
-Album: In the Name of Love
-***********************************************************************************************************************************
-Song's Name: Stop! In The Name Of Love - Single Version,
-Artist: The Supremes,
-Preview Link: null,
-Album: More Hits By The Supremes
-***********************************************************************************************************************************
-Song's Name: In The Name Of Love - Recorded At Spotify Studios NYC,
-Artist: Kari Jobe,
-Preview Link: null,
-Album: Spotify Singles
-***********************************************************************************************************************************
-Song's Name: Pride (In The Name Of Love) - Remastered 2009,
-Artist: U2,
-Preview Link: null,
-Album: The Unforgettable Fire (Remastered)
-***********************************************************************************************************************************
-Song's Name: In The Name Of Love,
-Artist: Too Close To Touch,
-Preview Link: null,
-Album: Punk Goes Pop, Vol. 7
-***********************************************************************************************************************************
-Song's Name: In the Name of Love,
-Artist: Martin Garrix,Bebe Rexha,
-Preview Link: https://p.scdn.co/mp3-preview/cbd166d86a2d5a52930dd5fe509c1f2806aeab11?cid=a24dadfadd72423da8649ac4709964d1,
-Album: In the Name of Love
-***********************************************************************************************************************************
-Song's Name: In The Name Of Love,
-Artist: Too Close To Touch,
-Preview Link: null,
-Album: Punk Goes Pop, Vol. 7
-***********************************************************************************************************************************
-Song's Name: In The Name Of Love - Recorded At Spotify Studios NYC,
-Artist: Kari Jobe,
-Preview Link: null,
-Album: Spotify Singles
-***********************************************************************************************************************************
-Song's Name: Pride (In The Name Of Love) - Remastered 2009,
-Artist: U2,
-Preview Link: null,
-Album: The Unforgettable Fire (Remastered)
-***********************************************************************************************************************************
-Song's Name: Stop! In The Name Of Love - Single Version,
-Artist: The Supremes,
-Preview Link: null,
-Album: More Hits By The Supremes
-***********************************************************************************************************************************
-Song's Name: In the Name of Love,
-Artist: Martin Garrix,Bebe Rexha,
-Preview Link: https://p.scdn.co/mp3-preview/cbd166d86a2d5a52930dd5fe509c1f2806aeab11?cid=a24dadfadd72423da8649ac4709964d1,
-Album: In the Name of Love
-***********************************************************************************************************************************
-Song's Name: In The Name Of Love,
-Artist: Too Close To Touch,
-Preview Link: null,
-Album: Punk Goes Pop, Vol. 7
-***********************************************************************************************************************************
-Song's Name: In The Name Of Love - Recorded At Spotify Studios NYC,
-Artist: Kari Jobe,
-Preview Link: null,
-Album: Spotify Singles
-***********************************************************************************************************************************
-Song's Name: Pride (In The Name Of Love) - Remastered 2009,
-Artist: U2,
-Preview Link: null,
-Album: The Unforgettable Fire (Remastered)
-***********************************************************************************************************************************
-Song's Name: Stop! In The Name Of Love - Single Version,
-Artist: The Supremes,
-Preview Link: null,
-Album: More Hits By The Supremes
-***********************************************************************************************************************************
-Song's Name: I'm a Sucker for You,
-Artist: Cooper Lee,
-Preview Link: https://p.scdn.co/mp3-preview/303daf77a6fb32bddbcd9b4fded3df26aca6f7ef?cid=a24dadfadd72423da8649ac4709964d1,
-Album: I'm a Sucker for You
-***********************************************************************************************************************************
-Song's Name: I'm a Sucker for You - Marimba Remix,
-Artist: Seven Rings,
-Preview Link: https://p.scdn.co/mp3-preview/e36300bf97cda0207ae8ffb9614620de38279d60?cid=a24dadfadd72423da8649ac4709964d1,
-Album: I'm a Sucker for You (Marimba Remix)
-***********************************************************************************************************************************
-Song's Name: There's One Born Every Minute (I'm a Sucker for You),
-Artist: Jonathan Butler,
-Preview Link: https://p.scdn.co/mp3-preview/20c594a8d21783241f6cf9137848b3167bff012b?cid=a24dadfadd72423da8649ac4709964d1,
-Album: More Than Friends
-***********************************************************************************************************************************
-Song's Name: I'm a Sucker for You,
-Artist: DJ Saamzi,
-Preview Link: https://p.scdn.co/mp3-preview/840488aaaf421704ca94ef4235630260caab11b2?cid=a24dadfadd72423da8649ac4709964d1,
-Album: I'm a Sucker for You
-***********************************************************************************************************************************
-Song's Name: There's One Born Every Minute (I'm a Sucker for You),
-Artist: Jonathan Butler,
-Preview Link: https://p.scdn.co/mp3-preview/d9edd753f991b49e9b499fd97f0074646238941a?cid=a24dadfadd72423da8649ac4709964d1,
-Album: The Best Of Jonathan Butler
-***********************************************************************************************************************************
-Song's Name: If I Can't Have You,
-Artist: Shawn Mendes,
-Preview Link: null,
-Album: If I Can't Have You
-***********************************************************************************************************************************
-Song's Name: If I Can't Have You (feat. Harloe),
-Artist: SNBRN,Harloe,
-Preview Link: https://p.scdn.co/mp3-preview/c2f334a75566a95d7f4081b43146c3191a58978e?cid=a24dadfadd72423da8649ac4709964d1,
-Album: If I Can't Have You (feat. Harloe)
-***********************************************************************************************************************************
-Song's Name: If I Can't Have You,
-Artist: Bee Gees,
-Preview Link: null,
-Album: Greatest
-***********************************************************************************************************************************
-Song's Name: If I Can't Have You,
-Artist: Sara Bareilles,
-Preview Link: https://p.scdn.co/mp3-preview/3c4585a94d77c8315cade3cbf98abaebcead7634?cid=a24dadfadd72423da8649ac4709964d1,
-Album: Amidst the Chaos
-***********************************************************************************************************************************
-Song's Name: If I Can't Have You,
-Artist: Yvonne Elliman,
-Preview Link: null,
-Album: The Best Of Yvonne Elliman
-***********************************************************************************************************************************
-Song's Name: In the Name of Love,
-Artist: Martin Garrix,Bebe Rexha,
-Preview Link: https://p.scdn.co/mp3-preview/cbd166d86a2d5a52930dd5fe509c1f2806aeab11?cid=a24dadfadd72423da8649ac4709964d1,
-Album: In the Name of Love
-***********************************************************************************************************************************
-Song's Name: In The Name Of Love - Recorded At Spotify Studios NYC,
-Artist: Kari Jobe,
-Preview Link: null,
-Album: Spotify Singles
-***********************************************************************************************************************************
-Song's Name: Pride (In The Name Of Love) - Remastered 2009,
-Artist: U2,
-Preview Link: null,
-Album: The Unforgettable Fire (Remastered)
-***********************************************************************************************************************************
-Song's Name: Stop! In The Name Of Love - Single Version,
-Artist: The Supremes,
-Preview Link: null,
-Album: More Hits By The Supremes
-***********************************************************************************************************************************
-Song's Name: In The Name Of Love,
-Artist: Too Close To Touch,
-Preview Link: null,
-Album: Punk Goes Pop, Vol. 7
-***********************************************************************************************************************************
-Song's Name: If I Can't Have You,
-Artist: Shawn Mendes,
-Preview Link: null,
-Album: If I Can't Have You
-***********************************************************************************************************************************
-Song's Name: If I Can't Have You,
-Artist: Sara Bareilles,
-Preview Link: https://p.scdn.co/mp3-preview/3c4585a94d77c8315cade3cbf98abaebcead7634?cid=a24dadfadd72423da8649ac4709964d1,
-Album: Amidst the Chaos
-***********************************************************************************************************************************
-Song's Name: If I Can't Have You,
-Artist: Yvonne Elliman,
-Preview Link: null,
-Album: The Best Of Yvonne Elliman
-***********************************************************************************************************************************
-Song's Name: If I Can't Have You (feat. Harloe),
-Artist: SNBRN,Harloe,
-Preview Link: https://p.scdn.co/mp3-preview/c2f334a75566a95d7f4081b43146c3191a58978e?cid=a24dadfadd72423da8649ac4709964d1,
-Album: If I Can't Have You (feat. Harloe)
-***********************************************************************************************************************************
-Song's Name: If I Can't Have You,
-Artist: Bee Gees,
-Preview Link: null,
-Album: Greatest
-***********************************************************************************************************************************
-Song's Name: I Want It That Way,
-Artist: Backstreet Boys,
-Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=a24dadfadd72423da8649ac4709964d1,
-Album: The Hits--Chapter One
-***********************************************************************************************************************************
-Song's Name: I Want It That Way,
-Artist: Backstreet Boys,
-Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=a24dadfadd72423da8649ac4709964d1,
-Album: Millennium
-***********************************************************************************************************************************
-Song's Name: I Want It That Way,
-Artist: Anthem Lights,
-Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=a24dadfadd72423da8649ac4709964d1,
-Album: Covers Part IV
-***********************************************************************************************************************************
-Song's Name: I Want It That Way,
-Artist: Jess and Gabriel,
-Preview Link: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=a24dadfadd72423da8649ac4709964d1,
-Album: Under the Covers, Vol. 3
-***********************************************************************************************************************************
-Song's Name: I Want It That Way,
-Artist: Mick Jensen,
-Preview Link: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=a24dadfadd72423da8649ac4709964d1,
-Album: I Want It That Way
-***********************************************************************************************************************************
-Song's Name: I Want It That Way,
-Artist: Backstreet Boys,
-Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=a24dadfadd72423da8649ac4709964d1,
-Album: The Hits--Chapter One
-***********************************************************************************************************************************
-Song's Name: I Want It That Way,
-Artist: Backstreet Boys,
-Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=a24dadfadd72423da8649ac4709964d1,
-Album: Millennium
-***********************************************************************************************************************************
-Song's Name: I Want It That Way,
-Artist: Anthem Lights,
-Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=a24dadfadd72423da8649ac4709964d1,
-Album: Covers Part IV
-***********************************************************************************************************************************
-Song's Name: I Want It That Way,
-Artist: Jess and Gabriel,
-Preview Link: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=a24dadfadd72423da8649ac4709964d1,
-Album: Under the Covers, Vol. 3
-***********************************************************************************************************************************
-Song's Name: I Want It That Way,
-Artist: Mick Jensen,
-Preview Link: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=a24dadfadd72423da8649ac4709964d1,
-Album: I Want It That Way
-***********************************************************************************************************************************
-Song's Name: In the Name of Love,
-Artist: Martin Garrix,Bebe Rexha,
-Preview Link: https://p.scdn.co/mp3-preview/cbd166d86a2d5a52930dd5fe509c1f2806aeab11?cid=a24dadfadd72423da8649ac4709964d1,
-Album: In the Name of Love
-***********************************************************************************************************************************
-Song's Name: Stop! In The Name Of Love - Single Version,
-Artist: The Supremes,
-Preview Link: null,
-Album: More Hits By The Supremes
-***********************************************************************************************************************************
-Song's Name: In The Name Of Love - Recorded At Spotify Studios NYC,
-Artist: Kari Jobe,
-Preview Link: null,
-Album: Spotify Singles
-***********************************************************************************************************************************
-Song's Name: Pride (In The Name Of Love) - Remastered 2009,
-Artist: U2,
-Preview Link: null,
-Album: The Unforgettable Fire (Remastered)
-***********************************************************************************************************************************
-Song's Name: In The Name Of Love,
-Artist: Too Close To Touch,
-Preview Link: null,
-Album: Punk Goes Pop, Vol. 7
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: The Railyard
-Venue location: Lincoln, NE
-Date of the Event: 05/10/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: First Avenue Club
-Venue location: Iowa City, IA
-Date of the Event: 05/11/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: Randy & Brady Acoustic - Waylon's & Ray's
-Venue location: Brownwood, TX
-Date of the Event: 05/17/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: Randy and Brady Acoustic - Wild West Cedar Park
-Venue location: Cedar Park, TX
-Date of the Event: 05/18/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: IP Casino - Studio A
-Venue location: Biloxi, MS
-Date of the Event: 05/24/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: Mollenpark
-Venue location: Aalborg, 
-Date of the Event: 06/01/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: Lanxess Arena
-Venue location: Cologne, 
-Date of the Event: 06/03/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: O2 ARENA
-Venue location: Prague, 
-Date of the Event: 06/05/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: Tauron Arena
-Venue location: Kraków, 
-Date of the Event: 06/06/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: Wembley Stadium
-Venue location: Wembley, 
-Date of the Event: 06/08/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: The Railyard
-Venue location: Lincoln, NE
-Date of the Event: 05/10/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: First Avenue Club
-Venue location: Iowa City, IA
-Date of the Event: 05/11/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: Randy & Brady Acoustic - Waylon's & Ray's
-Venue location: Brownwood, TX
-Date of the Event: 05/17/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: Randy and Brady Acoustic - Wild West Cedar Park
-Venue location: Cedar Park, TX
-Date of the Event: 05/18/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: IP Casino - Studio A
-Venue location: Biloxi, MS
-Date of the Event: 05/24/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: The Railyard
-Venue location: Lincoln, NE
-Date of the Event: 05/10/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: Randy & Brady Acoustic - Waylon's & Ray's
-Venue location: Brownwood, TX
-Date of the Event: 05/17/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: Randy and Brady Acoustic - Wild West Cedar Park
-Venue location: Cedar Park, TX
-Date of the Event: 05/18/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: IP Casino - Studio A
-Venue location: Biloxi, MS
-Date of the Event: 05/24/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Randy Rogers Band
-Name of the venue: First Avenue Club
-Venue location: Iowa City, IA
-Date of the Event: 05/11/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: Mollenpark
-Venue location: Aalborg, 
-Date of the Event: 06/01/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: Tauron Arena
-Venue location: Kraków, 
-Date of the Event: 06/06/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: O2 ARENA
-Venue location: Prague, 
-Date of the Event: 06/05/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: Lanxess Arena
-Venue location: Cologne, 
-Date of the Event: 06/03/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: Wembley Stadium
-Venue location: Wembley, 
-Date of the Event: 06/08/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: Mollenpark
-Venue location: Aalborg, 
-Date of the Event: 06/01/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: Wembley Stadium
-Venue location: Wembley, 
-Date of the Event: 06/08/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: O2 ARENA
-Venue location: Prague, 
-Date of the Event: 06/05/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: Tauron Arena
-Venue location: Kraków, 
-Date of the Event: 06/06/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
-Name of the venue: Lanxess Arena
-Venue location: Cologne, 
-Date of the Event: 06/03/2019
-**********************************************************************************************************************
