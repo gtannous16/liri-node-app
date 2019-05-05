@@ -1,3 +1,6 @@
+# Liri Node Application
+Liri is an application that calls upon the Spotify API (Music), OMDB API (Movies), & Bands in Town API(Concerts). 
+
 ![spotify-this-song](https://media.giphy.com/media/3GlfviTgWBytvBpqfM/giphy.gif)
 ![spotify-this-song with input](https://media.giphy.com/media/5nvNxviV8Vc33vX5jr/giphy.gif)
 ![do-what-it-says](https://media.giphy.com/media/33HwUfTsaLPRBuJD8A/giphy.gif)

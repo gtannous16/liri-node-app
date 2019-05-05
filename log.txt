@@ -1,53 +1,47 @@
-***********************************************************************************************************************************
-Song's Name: In the Name of Love,
-Artist: Martin Garrix,Bebe Rexha,
-Preview Link: https://p.scdn.co/mp3-preview/cbd166d86a2d5a52930dd5fe509c1f2806aeab11?cid=a24dadfadd72423da8649ac4709964d1,
-Album: In the Name of Love
-***********************************************************************************************************************************
-Song's Name: In The Name Of Love,
-Artist: Too Close To Touch,
-Preview Link: null,
-Album: Punk Goes Pop, Vol. 7
-***********************************************************************************************************************************
-Song's Name: Stop! In The Name Of Love - Single Version,
-Artist: The Supremes,
-Preview Link: null,
-Album: More Hits By The Supremes
-***********************************************************************************************************************************
-Song's Name: In The Name Of Love - Recorded At Spotify Studios NYC,
-Artist: Kari Jobe,
-Preview Link: null,
-Album: Spotify Singles
-***********************************************************************************************************************************
-Song's Name: Pride (In The Name Of Love) - Remastered 2009,
-Artist: U2,
-Preview Link: null,
-Album: The Unforgettable Fire (Remastered)
-***********************************************************************************************************************************
-Song's Name: If I Can't Have You,
-Artist: Shawn Mendes,
-Preview Link: null,
-Album: If I Can't Have You
-***********************************************************************************************************************************
-Song's Name: If I Can't Have You,
-Artist: Sara Bareilles,
-Preview Link: https://p.scdn.co/mp3-preview/3c4585a94d77c8315cade3cbf98abaebcead7634?cid=a24dadfadd72423da8649ac4709964d1,
-Album: Amidst the Chaos
-***********************************************************************************************************************************
-Song's Name: If I Can't Have You,
-Artist: Bee Gees,
-Preview Link: null,
-Album: Greatest
-***********************************************************************************************************************************
-Song's Name: If I Can't Have You (feat. Harloe),
-Artist: SNBRN,Harloe,
-Preview Link: https://p.scdn.co/mp3-preview/c2f334a75566a95d7f4081b43146c3191a58978e?cid=a24dadfadd72423da8649ac4709964d1,
-Album: If I Can't Have You (feat. Harloe)
-***********************************************************************************************************************************
-Song's Name: If I Can't Have You,
-Artist: Yvonne Elliman,
-Preview Link: null,
-Album: The Best Of Yvonne Elliman
+
+
+**********************************************************************************************************************
+
+Title of the Movie: The Devil Wears Prada
+
+Year the Movie Came Out: 2006
+
+IMDB Rating of the Movie: 6.9/10
+
+Rotten Tomatoes Rating of the Movie: 75%
+
+Country where the Movie was Produced: USA, France
+
+Language of the Movie: English, French
+
+Plot of the Movie: A smart but sensible new graduate lands a job as an assistant to Miranda Priestly, the demanding editor-in-chief of a high fashion magazine.
+
+Actors in the Movie: Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci
+
+**********************************************************************************************************************
+
+
+
+**********************************************************************************************************************
+
+Title of the Movie: Coco
+
+Year the Movie Came Out: 2017
+
+IMDB Rating of the Movie: 8.4/10
+
+Rotten Tomatoes Rating of the Movie: 97%
+
+Country where the Movie was Produced: USA
+
+Language of the Movie: English, Spanish
+
+Plot of the Movie: Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.
+
+Actors in the Movie: Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach
+
+**********************************************************************************************************************
+
 
 **********************************************************************************************************************
 Name of Artist: Randy Rogers Band
@@ -58,9 +52,9 @@ Date of the Event: 05/10/2019
 
 **********************************************************************************************************************
 Name of Artist: Randy Rogers Band
-Name of the venue: IP Casino - Studio A
-Venue location: Biloxi, MS
-Date of the Event: 05/24/2019
+Name of the venue: Randy and Brady Acoustic - Wild West Cedar Park
+Venue location: Cedar Park, TX
+Date of the Event: 05/18/2019
 **********************************************************************************************************************
 
 **********************************************************************************************************************
@@ -72,9 +66,9 @@ Date of the Event: 05/17/2019
 
 **********************************************************************************************************************
 Name of Artist: Randy Rogers Band
-Name of the venue: Randy and Brady Acoustic - Wild West Cedar Park
-Venue location: Cedar Park, TX
-Date of the Event: 05/18/2019
+Name of the venue: IP Casino - Studio A
+Venue location: Biloxi, MS
+Date of the Event: 05/24/2019
 **********************************************************************************************************************
 
 **********************************************************************************************************************
@@ -93,6 +87,13 @@ Date of the Event: 06/01/2019
 
 **********************************************************************************************************************
 Name of Artist: Maroon 5
+Name of the venue: Lanxess Arena
+Venue location: Cologne, 
+Date of the Event: 06/03/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Maroon 5
 Name of the venue: O2 ARENA
 Venue location: Prague, 
 Date of the Event: 06/05/2019
@@ -107,135 +108,107 @@ Date of the Event: 06/06/2019
 
 **********************************************************************************************************************
 Name of Artist: Maroon 5
-Name of the venue: Lanxess Arena
-Venue location: Cologne, 
-Date of the Event: 06/03/2019
-**********************************************************************************************************************
-
-**********************************************************************************************************************
-Name of Artist: Maroon 5
 Name of the venue: Wembley Stadium
 Venue location: Wembley, 
 Date of the Event: 06/08/2019
 **********************************************************************************************************************
-
-
-**********************************************************************************************************************
-
-Title of the Movie: The Devil Wears Prada
-
-Year the Movie Came Out: 2006
-
-IMDB Rating of the Movie: 6.9/10
-
-Rotten Tomatoes Rating of the Movie: 75%
-
-Country where the Movie was Produced: USA, France
-
-Language of the Movie: English, French
-
-Plot of the Movie: A smart but sensible new graduate lands a job as an assistant to Miranda Priestly, the demanding editor-in-chief of a high fashion magazine.
-
-Actors in the Movie: Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci
-
-**********************************************************************************************************************
-
-
-
-**********************************************************************************************************************
-
-Title of the Movie: Sweet Home Alabama
-
-Year the Movie Came Out: 2002
-
-IMDB Rating of the Movie: 6.2/10
-
-Rotten Tomatoes Rating of the Movie: 38%
-
-Country where the Movie was Produced: USA
-
-Language of the Movie: English
-
-Plot of the Movie: A young woman who's reinvented herself as a New York City socialite must return home to Alabama to obtain a divorce from her husband, after seven years of separation.
-
-Actors in the Movie: Reese Witherspoon, Josh Lucas, Patrick Dempsey, Candice Bergen
-
-**********************************************************************************************************************
-
 ***********************************************************************************************************************************
 Song's Name: In the Name of Love,
 Artist: Martin Garrix,Bebe Rexha,
 Preview Link: https://p.scdn.co/mp3-preview/cbd166d86a2d5a52930dd5fe509c1f2806aeab11?cid=a24dadfadd72423da8649ac4709964d1,
 Album: In the Name of Love
 ***********************************************************************************************************************************
-Song's Name: In The Name Of Love,
-Artist: Too Close To Touch,
-Preview Link: null,
-Album: Punk Goes Pop, Vol. 7
-***********************************************************************************************************************************
 Song's Name: In The Name Of Love - Recorded At Spotify Studios NYC,
 Artist: Kari Jobe,
 Preview Link: null,
 Album: Spotify Singles
-***********************************************************************************************************************************
-Song's Name: Pride (In The Name Of Love) - Remastered 2009,
-Artist: U2,
-Preview Link: null,
-Album: The Unforgettable Fire (Remastered)
 ***********************************************************************************************************************************
 Song's Name: Stop! In The Name Of Love - Single Version,
 Artist: The Supremes,
 Preview Link: null,
 Album: More Hits By The Supremes
 ***********************************************************************************************************************************
-Song's Name: Don't Call Me A Poet (feat. La Bruja , Nathan P. and Ngoma and Regtuniah "Nzinga" Chavis and Iyaba Ibo Mandingo and Chris Slaughter and Christine Firestarter) - Original,
-Artist: Messiah Sun,
-Preview Link: https://p.scdn.co/mp3-preview/e425f91a9412a82214eefcf472bbe5e66151b5ed?cid=a24dadfadd72423da8649ac4709964d1,
-Album: Don't Call Me A Poet (feat. La Bruja , Nathan P. and Ngoma and Regtuniah "Nzinga" Chavis and Iyaba Ibo Mandingo and Chris Slaughter and Christine Firestarter) [Original]
-***********************************************************************************************************************************
-Song's Name: Don't Call Me Up,
-Artist: Mabel,
+Song's Name: Pride (In The Name Of Love) - Remastered 2009,
+Artist: U2,
 Preview Link: null,
-Album: Ivy To Roses (Mixtape)
+Album: The Unforgettable Fire (Remastered)
 ***********************************************************************************************************************************
-Song's Name: Don't Call Me Up,
-Artist: Mabel,
+Song's Name: In The Name Of Love,
+Artist: Too Close To Touch,
 Preview Link: null,
-Album: Don't Call Me Up
+Album: Punk Goes Pop, Vol. 7
 ***********************************************************************************************************************************
-Song's Name: Don't Call Me Up - R3HAB Remix,
-Artist: Mabel,R3HAB,
-Preview Link: null,
-Album: Don't Call Me Up (Remixes)
+Song's Name: Kids,
+Artist: MGMT,
+Preview Link: https://p.scdn.co/mp3-preview/6a749da38e969dca948f36139f976b594db38f5d?cid=a24dadfadd72423da8649ac4709964d1,
+Album: Oracular Spectacular
 ***********************************************************************************************************************************
-Song's Name: Don't Call Me Up - Acoustic,
-Artist: Mabel,
-Preview Link: null,
-Album: Don't Call Me Up (Acoustic)
+Song's Name: American Kids,
+Artist: Kenny Chesney,
+Preview Link: https://p.scdn.co/mp3-preview/b1d2cf86d9ca2eb561393b922b6e0a0ee9f12a38?cid=a24dadfadd72423da8649ac4709964d1,
+Album: The Big Revival
 ***********************************************************************************************************************************
-Song's Name: Don't Call Me Up - Zac Samuel Remix,
-Artist: Mabel,Zac Samuel,
+Song's Name: all the kids are depressed,
+Artist: Jeremy Zucker,
 Preview Link: null,
-Album: Don't Call Me Up (Remixes)
-
-
-**********************************************************************************************************************
-
-Title of the Movie: The Devil Wears Prada
-
-Year the Movie Came Out: 2006
-
-IMDB Rating of the Movie: 6.9/10
-
-Rotten Tomatoes Rating of the Movie: 75%
-
-Country where the Movie was Produced: USA, France
-
-Language of the Movie: English, French
-
-Plot of the Movie: A smart but sensible new graduate lands a job as an assistant to Miranda Priestly, the demanding editor-in-chief of a high fashion magazine.
-
-Actors in the Movie: Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci
-
-**********************************************************************************************************************
-
+Album: glisten
+***********************************************************************************************************************************
+Song's Name: The Kids Aren't Alright,
+Artist: The Offspring,
+Preview Link: null,
+Album: Americana
+***********************************************************************************************************************************
+Song's Name: Super Rich Kids,
+Artist: Frank Ocean,Earl Sweatshirt,
+Preview Link: null,
+Album: channel ORANGE
+***********************************************************************************************************************************
+Song's Name: RecTro,
+Artist: Hullagan Rec,
+Preview Link: https://p.scdn.co/mp3-preview/f284483cffda517f36bd2937e005a5a2da16170b?cid=a24dadfadd72423da8649ac4709964d1,
+Album: Recreation
+***********************************************************************************************************************************
+Song's Name: Bea Smith Meets the Rectro Man,
+Artist: Sgt Fury,
+Preview Link: https://p.scdn.co/mp3-preview/8586d2b7a06592efa32c7463f50d8e6a7c1a4701?cid=a24dadfadd72423da8649ac4709964d1,
+Album: The Overcooked, The Poisoned and The Raw
+***********************************************************************************************************************************
+Song's Name: Rectro - Original Mix,
+Artist: Stoked,
+Preview Link: https://p.scdn.co/mp3-preview/4dc85a52abc1d4f80d051ef6ab4abbe5da340ead?cid=a24dadfadd72423da8649ac4709964d1,
+Album: Global Explosion : Progressive House 4
+***********************************************************************************************************************************
+Song's Name: Rectro - Radio Edit,
+Artist: Stoked,
+Preview Link: https://p.scdn.co/mp3-preview/5b54a5bc647052c864fa2c009dd0f8404f7f76af?cid=a24dadfadd72423da8649ac4709964d1,
+Album: Rectro
+***********************************************************************************************************************************
+Song's Name: Rectro,
+Artist: Stoked,
+Preview Link: https://p.scdn.co/mp3-preview/4dc85a52abc1d4f80d051ef6ab4abbe5da340ead?cid=a24dadfadd72423da8649ac4709964d1,
+Album: Rectro
+***********************************************************************************************************************************
+Song's Name: Brand New,
+Artist: Ben Rector,
+Preview Link: https://p.scdn.co/mp3-preview/7af3da5c3ba56ae837a8a36468899921dc7b08b1?cid=a24dadfadd72423da8649ac4709964d1,
+Album: Brand New
+***********************************************************************************************************************************
+Song's Name: Drive,
+Artist: Ben Rector,
+Preview Link: https://p.scdn.co/mp3-preview/7b904875ef97f94f64d2d100e372d27c4d2a307e?cid=a24dadfadd72423da8649ac4709964d1,
+Album: Magic
+***********************************************************************************************************************************
+Song's Name: I Will Always Be Yours,
+Artist: Ben Rector,
+Preview Link: https://p.scdn.co/mp3-preview/585f6936bd09fb0da3e43a92164a1c3cdea41085?cid=a24dadfadd72423da8649ac4709964d1,
+Album: Magic
+***********************************************************************************************************************************
+Song's Name: I Like You,
+Artist: Ben Rector,
+Preview Link: https://p.scdn.co/mp3-preview/ce51a9e4ff95b3f0ee1d52a40eba41d5748dd370?cid=a24dadfadd72423da8649ac4709964d1,
+Album: The Walking in Between
+***********************************************************************************************************************************
+Song's Name: Old Friends,
+Artist: Ben Rector,
+Preview Link: https://p.scdn.co/mp3-preview/3b78e2dbd4aaad0ec0987be811624ac8c03babdd?cid=a24dadfadd72423da8649ac4709964d1,
+Album: Magic
