@@ -14,6 +14,7 @@ This command calls the Spotify API and the input is the song "In the name of Lov
 ![spotify-this-song](https://media.giphy.com/media/3GlfviTgWBytvBpqfM/giphy.gif)
 ### node liri.js spotify-this-song name of song
 This command calls the Spotify API and the user can input any song. Below is an example where the input is the song If I can't Have You. The API will return the Artists, Name of song, Album that it is from, and a preview link of the song from Spotify. 
+
 ![spotify-this-song with input](https://media.giphy.com/media/5nvNxviV8Vc33vX5jr/giphy.gif)
 ### node liri.js do-what-it-says
 This command gets random text from a text file and performs the command in the text file. Below is an example of how this works. In the random file is spotify-this-song, "I want it that way." The API will return the Artists, Name of song, Album that it is from, and a preview link of the song from Spotify. 
