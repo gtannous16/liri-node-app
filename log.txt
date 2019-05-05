@@ -212,3 +212,218 @@ Song's Name: Old Friends,
 Artist: Ben Rector,
 Preview Link: https://p.scdn.co/mp3-preview/3b78e2dbd4aaad0ec0987be811624ac8c03babdd?cid=a24dadfadd72423da8649ac4709964d1,
 Album: Magic
+***********************************************************************************************************************************
+Song's Name: In the Name of Love,
+Artist: Martin Garrix,Bebe Rexha,
+Preview Link: https://p.scdn.co/mp3-preview/cbd166d86a2d5a52930dd5fe509c1f2806aeab11?cid=a24dadfadd72423da8649ac4709964d1,
+Album: In the Name of Love
+***********************************************************************************************************************************
+Song's Name: Stop! In The Name Of Love - Single Version,
+Artist: The Supremes,
+Preview Link: null,
+Album: More Hits By The Supremes
+***********************************************************************************************************************************
+Song's Name: In The Name Of Love - Recorded At Spotify Studios NYC,
+Artist: Kari Jobe,
+Preview Link: null,
+Album: Spotify Singles
+***********************************************************************************************************************************
+Song's Name: Pride (In The Name Of Love) - Remastered 2009,
+Artist: U2,
+Preview Link: null,
+Album: The Unforgettable Fire (Remastered)
+***********************************************************************************************************************************
+Song's Name: In The Name Of Love,
+Artist: Too Close To Touch,
+Preview Link: null,
+Album: Punk Goes Pop, Vol. 7
+***********************************************************************************************************************************
+Song's Name: On Bended Knee,
+Artist: Boyz II Men,
+Preview Link: null,
+Album: II
+***********************************************************************************************************************************
+Song's Name: On Bended Knee,
+Artist: Boyz II Men,
+Preview Link: https://p.scdn.co/mp3-preview/e3ea7ed01dd8f5b81aa04fa2d2dfbc7d5f06bb3f?cid=a24dadfadd72423da8649ac4709964d1,
+Album: Twenty
+***********************************************************************************************************************************
+Song's Name: On Bended Knee - The Four Performance,
+Artist: James Graham,
+Preview Link: null,
+Album: On Bended Knee (The Four Performance)
+***********************************************************************************************************************************
+Song's Name: On Bended Knee - RobbieG Remix,
+Artist: Boyz II Men,RobbieG,
+Preview Link: null,
+Album: Remix The Classics (Vol. 4)
+***********************************************************************************************************************************
+Song's Name: On Bended Knee,
+Artist: Ahmir,
+Preview Link: https://p.scdn.co/mp3-preview/5e51853da272bd1fb608d5b3f16216e5a38a14a3?cid=a24dadfadd72423da8649ac4709964d1,
+Album: On Bended Knee
+
+**********************************************************************************************************************
+Name of Artist: Randy Rogers Band
+Name of the venue: The Railyard
+Venue location: Lincoln, NE
+Date of the Event: 05/10/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Randy Rogers Band
+Name of the venue: IP Casino - Studio A
+Venue location: Biloxi, MS
+Date of the Event: 05/24/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Randy Rogers Band
+Name of the venue: Randy & Brady Acoustic - Waylon's & Ray's
+Venue location: Brownwood, TX
+Date of the Event: 05/17/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Randy Rogers Band
+Name of the venue: Randy and Brady Acoustic - Wild West Cedar Park
+Venue location: Cedar Park, TX
+Date of the Event: 05/18/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Randy Rogers Band
+Name of the venue: First Avenue Club
+Venue location: Iowa City, IA
+Date of the Event: 05/11/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Snoop Dogg
+Name of the venue: REBEL
+Venue location: Toronto, 
+Date of the Event: 05/20/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Michael Buble
+Name of the venue: Genting Arena
+Venue location: Marston Green, 
+Date of the Event: 05/20/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Michael Buble
+Name of the venue: The O2 Arena
+Venue location: London, 
+Date of the Event: 05/31/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Michael Buble
+Name of the venue: Manchester Arena
+Venue location: Manchester, 
+Date of the Event: 05/26/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Michael Buble
+Name of the venue: The O2 Arena
+Venue location: London, 
+Date of the Event: 05/30/2019
+**********************************************************************************************************************
+
+**********************************************************************************************************************
+Name of Artist: Michael Buble
+Name of the venue: The SSE Hydro
+Venue location: Glasgow, 
+Date of the Event: 05/23/2019
+**********************************************************************************************************************
+
+
+**********************************************************************************************************************
+
+Title of the Movie: The Devil Wears Prada
+
+Year the Movie Came Out: 2006
+
+IMDB Rating of the Movie: 6.9/10
+
+Rotten Tomatoes Rating of the Movie: 75%
+
+Country where the Movie was Produced: USA, France
+
+Language of the Movie: English, French
+
+Plot of the Movie: A smart but sensible new graduate lands a job as an assistant to Miranda Priestly, the demanding editor-in-chief of a high fashion magazine.
+
+Actors in the Movie: Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci
+
+**********************************************************************************************************************
+
+
+
+**********************************************************************************************************************
+
+Title of the Movie: Transformers
+
+Year the Movie Came Out: 2007
+
+IMDB Rating of the Movie: 7.1/10
+
+Rotten Tomatoes Rating of the Movie: 57%
+
+Country where the Movie was Produced: USA
+
+Language of the Movie: English, Spanish
+
+Plot of the Movie: An ancient struggle between two Cybertronian races, the heroic Autobots and the evil Decepticons, comes to Earth, with a clue to the ultimate power held by a teenager.
+
+Actors in the Movie: Shia LaBeouf, Megan Fox, Josh Duhamel, Tyrese Gibson
+
+**********************************************************************************************************************
+
+
+
+**********************************************************************************************************************
+
+Title of the Movie: The Devil Wears Prada
+
+Year the Movie Came Out: 2006
+
+IMDB Rating of the Movie: 6.9/10
+
+Rotten Tomatoes Rating of the Movie: 75%
+
+Country where the Movie was Produced: USA, France
+
+Language of the Movie: English, French
+
+Plot of the Movie: A smart but sensible new graduate lands a job as an assistant to Miranda Priestly, the demanding editor-in-chief of a high fashion magazine.
+
+Actors in the Movie: Meryl Streep, Anne Hathaway, Emily Blunt, Stanley Tucci
+
+**********************************************************************************************************************
+
+
+
+**********************************************************************************************************************
+
+Title of the Movie: Sweet Home Alabama
+
+Year the Movie Came Out: 2002
+
+IMDB Rating of the Movie: 6.2/10
+
+Rotten Tomatoes Rating of the Movie: 38%
+
+Country where the Movie was Produced: USA
+
+Language of the Movie: English
+
+Plot of the Movie: A young woman who's reinvented herself as a New York City socialite must return home to Alabama to obtain a divorce from her husband, after seven years of separation.
+
+Actors in the Movie: Reese Witherspoon, Josh Lucas, Patrick Dempsey, Candice Bergen
+
+**********************************************************************************************************************
+
