@@ -2,13 +2,13 @@
 Liri is an application that calls upon the Spotify API (Music), OMDB API (Movies), & Bands in Town API(Concerts). 
 
 ## Installations 
-** npm install axios
-** npm install --save node-spotify-api
-** npm install moment
-** npm install dotenv
-** npm install fs
+* npm install axios
+* npm install --save node-spotify-api
+* npm install moment
+* npm install dotenv
+* npm install fs
 
-##Commands to run Liri
+## Commands to run Liri
 ![spotify-this-song](https://media.giphy.com/media/3GlfviTgWBytvBpqfM/giphy.gif)
 ![spotify-this-song with input](https://media.giphy.com/media/5nvNxviV8Vc33vX5jr/giphy.gif)
 ![do-what-it-says](https://media.giphy.com/media/33HwUfTsaLPRBuJD8A/giphy.gif)
